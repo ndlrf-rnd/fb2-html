@@ -1,6 +1,6 @@
 {
   "name": "@ndlrf/fb2-html",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "FB2 -> HTML Fast converter of FB2 publications archives to easy-to-use text material",
   "tags": [
     "fb2",

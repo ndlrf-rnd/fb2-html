@@ -25,11 +25,11 @@ const ENCODING_TOKEN_START = 'encoding="'
 const ENCODING_TOKEN_END = '"';
 const DEFAULT_ENCODING = 'utf-8'
 const HEADERS = [
-  'value',
-  'type',
   'file',
+  'type',
   'language',
-  'confidence'
+  'confidence',
+  'value',
 ];
 
 
